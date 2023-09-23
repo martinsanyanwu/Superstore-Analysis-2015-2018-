@@ -39,3 +39,12 @@ I prepared a dashboard showing relevant KPIs such as:
 * Number of Customers
 * Product Count
 * Number of Cities in Operation
+The charts I created include;
+* Sales by Category
+* Sales by Subcategory
+* Sales by State
+* Sales by Region
+* Ship modes and their preference by Customers
+* Sales by Segment
+* Orders and Sales by Year
+* Orders and Sales by Month 
